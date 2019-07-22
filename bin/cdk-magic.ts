@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 import cdk = require('@aws-cdk/core');
-import { CdkMagicStack } from '../lib/cdk-magic-stack';
+import { MtgInsightsStack } from '../lib/mtg-insights-stack';
 
 const app = new cdk.App();
-new CdkMagicStack(app, 'CdkMagicStack');
+new MtgInsightsStack(app, 'MtgInsightsStack');
