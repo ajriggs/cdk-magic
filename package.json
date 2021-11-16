@@ -28,7 +28,7 @@
     "@aws-cdk/aws-sqs": "^1.1.0",
     "@aws-cdk/core": "^1.5.0",
     "@aws-cdk/cx-api": "^1.5.0",
-    "aws-sdk": "^2.496.0",
+    "aws-sdk": "^2.814.0",
     "cdk": "^1.5.0"
   }
 }
